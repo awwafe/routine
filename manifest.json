@@ -1,0 +1,16 @@
+{
+  "short_name": "Routine",
+  "name": "My Daily Routine",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "128x128",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "./?utm_source=web_app_manifest",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
